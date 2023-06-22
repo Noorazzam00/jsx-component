@@ -1,0 +1,44 @@
+[
+    {
+        " id" :1,
+        "name" : " Espresso Classico",
+        "image":"https://coffeenmore.co/wp-content/uploads/2022/08/vergnano-600-psd-600x600.gif",
+        "price" :900,
+        "desc":"Caffè Vergnano 1882 Espresso Classico 600 Coffee Beans 1kg"
+    },
+    {
+        " id" :2,
+        "image":"https://coffeenmore.co/wp-content/uploads/2021/09/vergnano-800-600x600.gif",
+        "name" : "Espresso Crema",
+        "price":500,
+        "desc":"Caffè Vergnano 1882 Espresso Dolce 900 Coffee Beans 1kg"
+    },
+    {
+        " id" :3,
+        "image":"https://coffeenmore.co/wp-content/uploads/2022/08/vergnano-900-psd-600x600.gif",
+        "name" : "Espresso Dolce",
+        "price":900,
+        "desc":"Caffè Vergnano 1882 Espresso Crema 800 Coffee Beans 1kg"
+    },
+    {
+        " id" :4,
+        "name" : "  Espresso Extra Dolce",
+        "image":"https://coffeenmore.co/wp-content/uploads/2022/08/vergnano-1000-psd.gif",
+        "price":15000,
+        "desc":"Caffè Vergnano 1882 Espresso Extra Dolce 1000 Coffee Beans 1kg"
+    },
+    {
+        " id" :5,
+        "name" : " Dallmayr Fastback Nespresso capsules machine , Black",
+        "image":"https://coffeenmore.co/wp-content/uploads/2021/08/dallmayr-fastback-black.gif",
+        "price":3000,
+        "desc":"FASTBACK Nespresso capsules machine designed with creativity and simplicity for quick and easy preparation of different coffee creations. Compatible with the Nespresso capsules to deliver a fresh coffee in no time.  Making coffee at home will become your favourite routine.Intended for home use, small office, and hotel rooms."
+    },
+    {
+        " id" :6,
+        "name" : "  Dallmayr Skycap Nespresso capsules machine with milk frother , White",
+        "image":"https://coffeenmore.co/wp-content/uploads/2021/08/dallmayr-skycap-white.gif",
+        "price":7500,
+        "desc":"Compact capsule coffee machine. Designed and built in Italy. Incredible coffee extraction, using our 7 gram coffee capsules. Built in milk frother that pours the hot frothed milk into the cup and then pours in the coffee shot into the cup for a perfect cappuccino or latte. Two dosing settings for espresso and ristretto  doses as well as cappuccino. Auto capsule ejection. Hot frothed milk only button to make hot chocolate and a hot water button for specialist tea extraction with the included tea bag adaptor. This makes a great cup of tea. Eco mode for energy saving."
+    }
+]
